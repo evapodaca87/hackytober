@@ -1,3 +1,11 @@
 .html {
     background-color: aqua;
+};
+
+p {
+    font-size: 14px;
+};
+
+.words {
+    color: blueviolet;
 }
